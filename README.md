@@ -1,4 +1,6 @@
 # Question 6
+GROUP 2: Luke Fang, Gomes Mikhaiel, Hila Ergys, Ibrat Nazara, Kaur Rupinder
+
 
 A program that takes a very long 32 bit vigenere encrypted string and after a letter frequency analysis it displays the unencrypted string and the key used
 
@@ -25,4 +27,4 @@ A program that takes a very long 32 bit vigenere encrypted string and after a le
 
 
 
-
+ 
