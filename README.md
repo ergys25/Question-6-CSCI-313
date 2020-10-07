@@ -19,5 +19,8 @@ A program that takes a very long 32 bit vigenere encrypted string and after a le
 
 ## 
 
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/25082236/95329149-81b0ac80-0874-11eb-886a-acc917c68e22.gif)
+
+
 
 
